@@ -3,7 +3,6 @@
 enabled: false
 # name任意填 ，bduss 贴吧首页cookie里的BDUSS项目 不会的百度
 accounts:
-  - name: 小鱼
-    bduss: aaaaaa
-  - name: 小鱼x
-    bduss: ccccc
+  - name: 金牌厨师帽
+    bduss: WRvcFdocmZKRUozOG1BNld6bmhtSXExVENhWTZuYXBMYUlNWTQyODd4Y3ZtVEJsRVFBQUFBJCQAAAAAAQAAAAEAAACt1JCEvfDFxrP4yqbDsQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8MCWUvDAlla
+
